@@ -1,0 +1,4 @@
+zone "ivan.com" {
+	type master;
+	file "/etc/bind/rd.ivan";
+};
